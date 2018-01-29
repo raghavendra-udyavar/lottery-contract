@@ -1,0 +1,22 @@
+{
+  "name": "lottery-contract",
+  "version": "1.0.0",
+  "description": "Lottery contract project",
+  "main": "compile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raghavendra-udyavar/lottery-contract.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raghavendra-udyavar/lottery-contract/issues"
+  },
+  "homepage": "https://github.com/raghavendra-udyavar/lottery-contract#readme"
+}
